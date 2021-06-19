@@ -1,2 +1,2 @@
-# Treslution-OS-for-Python
-Treslution-OS for Python
+# Treslution-OS-for-Python-Canary
+Treslution-OS for Python Canary
