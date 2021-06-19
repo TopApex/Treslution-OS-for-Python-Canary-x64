@@ -1,2 +1,2 @@
 # Treslution-OS-for-Python
-reslution-OS for Python
+Treslution-OS for Python
